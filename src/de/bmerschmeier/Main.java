@@ -16,8 +16,15 @@ public class Main {
         day1Tasks.Task2();*/
 
         //Day 2
-        Day2Tasks day2Tasks = new Day2Tasks();
+        /*Day2Tasks day2Tasks = new Day2Tasks();
         //For task two: Changed to use aim instead of depth for up and down
-        day2Tasks.Task1And2();
+        day2Tasks.Task1And2();*/
+
+        /*Day3Tasks day3Tasks = new Day3Tasks();
+        day3Tasks.Task1();
+        day3Tasks.Task2();*/
+
+        Day4Tasks day4Tasks = new Day4Tasks();
+        day4Tasks.Task1();
     }
 }
