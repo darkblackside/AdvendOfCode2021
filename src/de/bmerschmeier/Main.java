@@ -24,7 +24,12 @@ public class Main {
         day3Tasks.Task1();
         day3Tasks.Task2();*/
 
-        Day4Tasks day4Tasks = new Day4Tasks();
-        day4Tasks.Task1();
+		//Day 4
+        /*Day4Tasks day4Tasks = new Day4Tasks();
+        day4Tasks.Task1();*/
+
+		Day5Tasks day5Tasks = new Day5Tasks();
+        day5Tasks.Task1();
+        day5Tasks.Task2();
     }
 }
